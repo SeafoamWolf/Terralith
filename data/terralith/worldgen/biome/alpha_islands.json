@@ -154,6 +154,6 @@
     "water_creature": []
   },
   "starts": [],
-  "surface_builder": "minecraft:grass",
+  "surface_builder": "minecraft:short_grass",
   "temperature": 0.7
 }

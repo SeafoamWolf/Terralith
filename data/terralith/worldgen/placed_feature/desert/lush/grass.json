@@ -39,61 +39,61 @@
                                     "slow_scale": 1,
                                     "states": [
                                         {
-                                            "Name": "minecraft:grass"
+                                            "Name": "minecraft:short_grass"
                                         },
                                         {
-                                            "Name": "minecraft:grass"
+                                            "Name": "minecraft:short_grass"
                                         },
                                         {
-                                            "Name": "minecraft:grass"
-                                        },
-                                        {
-                                            "Name": "minecraft:fern"
-                                        },
-                                        {
-                                            "Name": "minecraft:grass"
-                                        },
-                                        {
-                                            "Name": "minecraft:grass"
-                                        },
-                                        {
-                                            "Name": "minecraft:grass"
-                                        },
-                                        {
-                                            "Name": "minecraft:grass"
-                                        },
-                                        {
-                                            "Name": "minecraft:air"
-                                        },
-                                        {
-                                            "Name": "minecraft:air"
-                                        },
-                                        {
-                                            "Name": "minecraft:air"
-                                        },
-                                        {
-                                            "Name": "minecraft:air"
-                                        },
-                                        {
-                                            "Name": "minecraft:air"
-                                        },
-                                        {
-                                            "Name": "minecraft:air"
-                                        },
-                                        {
-                                            "Name": "minecraft:air"
-                                        },
-                                        {
-                                            "Name": "minecraft:air"
-                                        },
-                                        {
-                                            "Name": "minecraft:grass"
+                                            "Name": "minecraft:short_grass"
                                         },
                                         {
                                             "Name": "minecraft:fern"
                                         },
                                         {
-                                            "Name": "minecraft:grass"
+                                            "Name": "minecraft:short_grass"
+                                        },
+                                        {
+                                            "Name": "minecraft:short_grass"
+                                        },
+                                        {
+                                            "Name": "minecraft:short_grass"
+                                        },
+                                        {
+                                            "Name": "minecraft:short_grass"
+                                        },
+                                        {
+                                            "Name": "minecraft:air"
+                                        },
+                                        {
+                                            "Name": "minecraft:air"
+                                        },
+                                        {
+                                            "Name": "minecraft:air"
+                                        },
+                                        {
+                                            "Name": "minecraft:air"
+                                        },
+                                        {
+                                            "Name": "minecraft:air"
+                                        },
+                                        {
+                                            "Name": "minecraft:air"
+                                        },
+                                        {
+                                            "Name": "minecraft:air"
+                                        },
+                                        {
+                                            "Name": "minecraft:air"
+                                        },
+                                        {
+                                            "Name": "minecraft:short_grass"
+                                        },
+                                        {
+                                            "Name": "minecraft:fern"
+                                        },
+                                        {
+                                            "Name": "minecraft:short_grass"
                                         }
                                     ],
                                     "variety": {
@@ -139,7 +139,7 @@
                                 {
                                     "type": "minecraft:would_survive",
                                     "state": {
-                                        "Name": "minecraft:grass",
+                                        "Name": "minecraft:short_grass",
                                         "Properties": {
                                             "age": "0"
                                         }

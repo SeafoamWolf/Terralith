@@ -23,17 +23,13 @@
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -2,
-          "max_inclusive": 2
-        }
+        "min_inclusive": -2,
+        "max_inclusive": 2
       },
       "y_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -16,
-          "max_inclusive": 0
-        }
+        "min_inclusive": -16,
+        "max_inclusive": 0
       }
     },
     {
@@ -110,7 +106,7 @@
                 "type": "minecraft:matching_blocks",
                 "blocks": [
                   "minecraft:air",
-                  "minecraft:grass",
+                  "minecraft:short_grass",
                   "minecraft:fern"
                 ],
                 "offset": [
@@ -123,7 +119,7 @@
                 "type": "minecraft:matching_blocks",
                 "blocks": [
                   "minecraft:air",
-                  "minecraft:grass",
+                  "minecraft:short_grass",
                   "minecraft:fern"
                 ],
                 "offset": [
@@ -136,7 +132,7 @@
                 "type": "minecraft:matching_blocks",
                 "blocks": [
                   "minecraft:air",
-                  "minecraft:grass",
+                  "minecraft:short_grass",
                   "minecraft:fern"
                 ],
                 "offset": [
@@ -149,7 +145,7 @@
                 "type": "minecraft:matching_blocks",
                 "blocks": [
                   "minecraft:air",
-                  "minecraft:grass",
+                  "minecraft:short_grass",
                   "minecraft:fern"
                 ],
                 "offset": [

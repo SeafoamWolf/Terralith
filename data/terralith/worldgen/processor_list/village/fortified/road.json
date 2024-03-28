@@ -18,7 +18,7 @@
                 {
                     "location_predicate": {
                         "predicate_type": "minecraft:block_match",
-                        "block": "minecraft:grass"
+                        "block": "minecraft:short_grass"
                     },
                     "input_predicate": {
                         "predicate_type": "minecraft:always_true"

@@ -13,17 +13,13 @@
       "offset": 0,
       "radius": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 3,
-          "max_inclusive": 4
-        }
+        "min_inclusive": 3,
+        "max_inclusive": 4
       },
       "trunk_height": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 9,
-          "max_inclusive": 11
-        }
+        "min_inclusive": 9,
+        "max_inclusive": 11
       }
     },
     "foliage_provider": {

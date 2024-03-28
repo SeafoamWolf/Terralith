@@ -25,7 +25,7 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:air",
-              "minecraft:grass",
+              "minecraft:short_grass",
               "minecraft:tall_grass"
             ],
             "offset": [
@@ -38,7 +38,7 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:air",
-              "minecraft:grass",
+              "minecraft:short_grass",
               "minecraft:tall_grass"
             ],
             "offset": [
@@ -51,7 +51,7 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:air",
-              "minecraft:grass",
+              "minecraft:short_grass",
               "minecraft:tall_grass"
             ],
             "offset": [
@@ -64,7 +64,7 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:air",
-              "minecraft:grass",
+              "minecraft:short_grass",
               "minecraft:tall_grass"
             ],
             "offset": [
@@ -77,7 +77,7 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:air",
-              "minecraft:grass",
+              "minecraft:short_grass",
               "minecraft:tall_grass"
             ],
             "offset": [
@@ -90,7 +90,7 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:air",
-              "minecraft:grass",
+              "minecraft:short_grass",
               "minecraft:tall_grass"
             ],
             "offset": [
@@ -103,7 +103,7 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:air",
-              "minecraft:grass",
+              "minecraft:short_grass",
               "minecraft:tall_grass"
             ],
             "offset": [
@@ -116,7 +116,7 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:air",
-              "minecraft:grass",
+              "minecraft:short_grass",
               "minecraft:tall_grass"
             ],
             "offset": [
@@ -129,7 +129,7 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:air",
-              "minecraft:grass",
+              "minecraft:short_grass",
               "minecraft:tall_grass"
             ],
             "offset": [

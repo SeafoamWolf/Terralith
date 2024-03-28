@@ -383,10 +383,8 @@
                       {
                         "height": {
                           "type": "minecraft:biased_to_bottom",
-                          "value": {
-                            "min_inclusive": 1,
-                            "max_inclusive": 15
-                          }
+                          "min_inclusive": 1,
+                          "max_inclusive": 15
                         },
                         "provider": {
                           "type": "minecraft:simple_state_provider",
@@ -421,10 +419,8 @@
     "vertical_range": 7,
     "xz_radius": {
       "type": "minecraft:uniform",
-      "value": {
-        "min_inclusive": 4,
-        "max_inclusive": 8
-      }
+      "min_inclusive": 4,
+      "max_inclusive": 8
     }
   }
 }

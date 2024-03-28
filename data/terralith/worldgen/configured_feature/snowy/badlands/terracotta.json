@@ -8,10 +8,8 @@
           "config": {
             "radius": {
               "type": "minecraft:uniform",
-              "value": {
-                "min_inclusive": 7,
-                "max_inclusive": 12
-              }
+              "min_inclusive": 7,
+              "max_inclusive": 12
             },
             "state": {
               "Name": "minecraft:terracotta"
@@ -29,10 +27,8 @@
           "config": {
             "radius": {
               "type": "minecraft:uniform",
-              "value": {
-                "min_inclusive": 7,
-                "max_inclusive": 12
-              }
+              "min_inclusive": 7,
+              "max_inclusive": 12
             },
             "state": {
               "Name": "minecraft:brown_terracotta"
@@ -50,10 +46,8 @@
           "config": {
             "radius": {
               "type": "minecraft:uniform",
-              "value": {
-                "min_inclusive": 7,
-                "max_inclusive": 12
-              }
+              "min_inclusive": 7,
+              "max_inclusive": 12
             },
             "state": {
               "Name": "minecraft:black_terracotta"
