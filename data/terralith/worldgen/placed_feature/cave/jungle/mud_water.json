@@ -4,10 +4,8 @@
     "config": {
       "depth": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 2,
-          "max_inclusive": 5
-        }
+        "min_inclusive": 2,
+        "max_inclusive": 5
       },
       "extra_bottom_block_chance": 0.25,
       "extra_edge_column_chance": 0.675,
@@ -167,10 +165,8 @@
       "vertical_range": 4,
       "xz_radius": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 2,
-          "max_inclusive": 5
-        }
+        "min_inclusive": 2,
+        "max_inclusive": 5
       }
     }
   },

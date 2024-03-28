@@ -15,20 +15,16 @@
       "type": "minecraft:count",
       "count": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 74,
-          "max_inclusive": 200
-        }
+        "min_inclusive": 74,
+        "max_inclusive": 200
       }
     },
     {
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": 0
     },
@@ -36,10 +32,8 @@
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": 0
     },
@@ -47,12 +41,10 @@
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:clamped_normal",
-        "value": {
-          "deviation": 0.65,
-          "min_inclusive": -1,
-          "max_inclusive": 1,
-          "mean": 0
-        }
+        "deviation": 0.65,
+        "min_inclusive": -1,
+        "max_inclusive": 1,
+        "mean": 0
       },
       "y_spread": 0
     },

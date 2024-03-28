@@ -15,115 +15,89 @@
       "type": "minecraft:count",
       "count": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 15,
-          "max_inclusive": 30
-        }
+        "min_inclusive": 15,
+        "max_inclusive": 30
       }
     },
     {
       "type": "minecraft:count",
       "count": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 1,
-          "max_inclusive": 3
-        }
+        "min_inclusive": 1,
+        "max_inclusive": 3
       }
     },
     {
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 0,
-          "max_inclusive": 1
-        }
+        "min_inclusive": 0,
+        "max_inclusive": 1
       }
     },
     {
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 0,
-          "max_inclusive": 1
-        }
+        "min_inclusive": 0,
+        "max_inclusive": 1
       }
     },
     {
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 0,
-          "max_inclusive": 1
-        }
+        "min_inclusive": 0,
+        "max_inclusive": 1
       }
     },
     {
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 0,
-          "max_inclusive": 1
-        }
+        "min_inclusive": 0,
+        "max_inclusive": 1
       }
     },
     {
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 0,
-          "max_inclusive": 1
-        }
+        "min_inclusive": 0,
+        "max_inclusive": 1
       }
     },
     {
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": 0
     },
@@ -131,10 +105,8 @@
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": 0
     },
@@ -142,10 +114,8 @@
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": 0
     },
@@ -153,10 +123,8 @@
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": 0
     },
@@ -164,10 +132,8 @@
       "type": "minecraft:random_offset",
       "xz_spread": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -1,
-          "max_inclusive": 1
-        }
+        "min_inclusive": -1,
+        "max_inclusive": 1
       },
       "y_spread": 0
     },

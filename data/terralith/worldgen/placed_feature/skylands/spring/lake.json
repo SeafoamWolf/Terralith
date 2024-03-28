@@ -86,10 +86,8 @@
       "vertical_range": 3,
       "xz_radius": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 2,
-          "max_inclusive": 3
-        }
+        "min_inclusive": 2,
+        "max_inclusive": 3
       }
     }
   },
@@ -104,11 +102,9 @@
     {
       "type": "minecraft:random_offset",
       "xz_spread": {
-        "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": -8,
-          "max_inclusive": 8
-        }
+      "type": "minecraft:uniform",
+        "min_inclusive": -8,
+        "max_inclusive": 8
       },
       "y_spread": 0
     },

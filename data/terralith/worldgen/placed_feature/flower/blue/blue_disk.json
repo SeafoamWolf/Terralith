@@ -18,9 +18,7 @@
       "type": "minecraft:height_range",
       "height": {
         "type": "minecraft:constant",
-        "value": {
-          "absolute": 62
-        }
+        "absolute": 62
       }
     },
     {

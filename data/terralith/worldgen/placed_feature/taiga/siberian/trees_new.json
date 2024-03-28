@@ -15,10 +15,8 @@
         "offset": 1,
         "radius": {
           "type": "minecraft:uniform",
-          "value": {
-            "min_inclusive": 4,
-            "max_inclusive": 6
-          }
+          "min_inclusive": 4,
+          "max_inclusive": 6
         }
       },
       "foliage_provider": {
@@ -63,10 +61,8 @@
       "type": "minecraft:count",
       "count": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 4,
-          "max_inclusive": 5
-        }
+        "min_inclusive": 4,
+        "max_inclusive": 5
       }
     },
     {
@@ -125,10 +121,8 @@
       "type": "minecraft:count",
       "count": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 1,
-          "max_inclusive": 4
-        }
+        "min_inclusive": 1,
+        "max_inclusive": 4
       }
     }
   ]

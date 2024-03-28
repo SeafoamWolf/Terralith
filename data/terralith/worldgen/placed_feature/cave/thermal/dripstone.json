@@ -5,25 +5,19 @@
       "chance_of_dripstone_column_at_max_distance_from_center": 0.4,
       "density": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 0.4,
-          "max_exclusive": 1
-        }
+        "min_inclusive": 0.4,
+        "max_exclusive": 1
       },
       "dripstone_block_layer_thickness": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 0,
-          "max_inclusive": 0
-        }
+        "min_inclusive": 0,
+        "max_inclusive": 0
       },
       "floor_to_ceiling_search_range": 40,
       "height": {
         "type": "minecraft:biased_to_bottom",
-        "value": {
-          "min_inclusive": 1,
-          "max_inclusive": 3
-        }
+        "min_inclusive": 1,
+        "max_inclusive": 3
       },
       "height_deviation": 1,
       "max_distance_from_center_affecting_height_bias": 2,
@@ -31,10 +25,8 @@
       "max_stalagmite_stalactite_height_diff": 2,
       "radius": {
         "type": "minecraft:biased_to_bottom",
-        "value": {
-          "min_inclusive": 1,
-          "max_inclusive": 2
-        }
+      "min_inclusive": 1,
+      "max_inclusive": 2
       },
       "wetness": 0
     }
