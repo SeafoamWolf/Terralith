@@ -1,0 +1,13 @@
+{
+  "angry_texture": "minecraft:entity/wolf/wolf_snowy_angry",
+  "biomes": [
+    "minecraft:grove",
+    "terralith:alpine_grove",
+    "terralith:moonlight_grove",
+    "terralith:sakura_grove",
+    "terralith:siberian_grove",
+    "terralith:snowy_cherry_grove"
+  ],
+  "tame_texture": "minecraft:entity/wolf/wolf_snowy_tame",
+  "wild_texture": "minecraft:entity/wolf/wolf_snowy"
+}
