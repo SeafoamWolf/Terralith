@@ -13,7 +13,35 @@
                         },
                         {
                             "function": "minecraft:set_components",
-                            "components": "{predicates:{custom_color=16762880,custom_effects=[{duration=1000,id=\"minecraft:absorption\"},{duration=300,id=\"minecraft:glowing\"},{duration=6000,id=\"minecraft:haste\",amplifier=1},{duration=1,id=\"minecraft:saturation\",amplifier=40},{duration=6000,id=\"minecraft:speed\"}]}}"
+                            "components": {
+                                "potion_contents": {
+                                    "custom_color": 16762880,
+                                    "custom_effects": [
+                                        {
+                                            "duration": 1000,
+                                            "id": "minecraft:absorption"
+                                        },
+                                        {
+                                            "duration": 300,
+                                            "id": "minecraft:glowing"
+                                        },
+                                        {
+                                            "duration": 6000,
+                                            "id": "minecraft:haste",
+                                            "amplifier": 1
+                                        },
+                                        {
+                                            "duration": 1,
+                                            "id": "minecraft:saturation",
+                                            "amplifier": 40
+                                        },
+                                        {
+                                            "duration": 6000,
+                                            "id": "minecraft:speed"
+                                        }
+                                    ]
+                                }
+                            }
                         },
                         {
                             "function": "minecraft:set_name",

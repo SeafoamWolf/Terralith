@@ -5,17 +5,17 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "terralith:village/treasure/golem",
+          "value": "terralith:village/treasure/golem",
           "weight": 1
         },
         {
           "type": "minecraft:loot_table",
-          "name": "terralith:village/treasure/emerald",
+          "value": "terralith:village/treasure/emerald",
           "weight": 1
         },
         {
           "type": "minecraft:loot_table",
-          "name": "terralith:village/treasure/diamond",
+          "value": "terralith:village/treasure/diamond",
           "weight": 1
         }
       ],

@@ -40,7 +40,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "terralith:royal_jelly"
+          "value": "terralith:royal_jelly"
         }
       ],
       "rolls": 1
